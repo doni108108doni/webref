@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-05T06:55:49.410Z",
+  "date": "2024-11-05T13:37:49.132Z",
   "options": {
     "useCrawl": "curated",
     "output": "curated",
@@ -2374,11 +2374,11 @@
       ],
       "crawled": "https://fetch.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 24 Oct 2024 21:21:36 GMT"
+        "lastModified": "Tue, 05 Nov 2024 08:56:28 GMT"
       },
       "generator": "bikeshed",
-      "date": "24 October 2024",
-      "revision": "1dc1b034b208faf6652dced19954f67717da9ba1",
+      "date": "5 November 2024",
+      "revision": "bdb452ef7847a6c394e6914ba13675537eea2180",
       "algorithms": "algorithms/fetch.json",
       "links": "links/fetch.json",
       "refs": "refs/fetch.json",
@@ -14625,9 +14625,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7469",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 28 Oct 2024 22:30:15 GMT"
+        "lastModified": "Tue, 05 Nov 2024 07:00:45 GMT"
       },
-      "date": "28 October 2024",
+      "date": "5 November 2024",
       "links": "links/rfc7469.json",
       "ids": "ids/rfc7469.json"
     },
