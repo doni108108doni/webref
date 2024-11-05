@@ -11,7 +11,11 @@
           "fenced_frames"
         ]
       },
-      "https://dom.spec.whatwg.org/": {},
+      "https://dom.spec.whatwg.org/": {
+        "anchors": [
+          "inner-event-creation-steps"
+        ]
+      },
       "https://drafts.csswg.org/css2/": {},
       "https://drafts.csswg.org/cssom-view/": {},
       "https://fetch.spec.whatwg.org/": {
@@ -27,6 +31,9 @@
         ]
       },
       "https://github.com/WICG/fenced-frame/issues/116": {},
+      "https://github.com/WICG/fenced-frame/issues/151": {},
+      "https://github.com/WICG/fenced-frame/issues/191": {},
+      "https://github.com/WICG/fenced-frame/issues/192": {},
       "https://github.com/WICG/fenced-frame/issues/194": {},
       "https://github.com/WICG/fenced-frame/issues/new": {},
       "https://github.com/WICG/fenced-frame/pull/84": {
@@ -127,6 +134,11 @@
       "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/history-back-and-forward-should-not-work-in-fenced-tree.https.html": {},
       "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/history-length-fenced-navigations-replace-do-not-contribute-to-joint.https.html": {},
       "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/history-length-outer-page-navigation-not-reflected-in-fenced.https.html": {},
+      "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/notify-event-iframe.https.html": {},
+      "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/notify-event-invalid.https.html": {},
+      "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/notify-event-nested-fenced-frames.https.html": {},
+      "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/notify-event-success.https.html": {},
+      "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/notify-event-transient-user-activation.https.html": {},
       "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/permission-api-denied-non-standard.https.html": {},
       "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/permission-api-denied.https.html": {},
       "https://github.com/web-platform-tests/wpt/blob/master/fenced-frame/permission-geolocation.https.html": {},
@@ -147,7 +159,8 @@
       "https://html.spec.whatwg.org/C": {
         "anchors": [
           "populating-a-session-history-entry:top-level-traversable-2",
-          "populating-a-session-history-entry:cross-origin-resource-policy-check"
+          "populating-a-session-history-entry:cross-origin-resource-policy-check",
+          "events-2"
         ]
       },
       "https://html.spec.whatwg.org/multipage/": {},
@@ -173,9 +186,15 @@
           "the-iframe-element:url-and-history-update-steps"
         ]
       },
+      "https://html.spec.whatwg.org/multipage/indices.html": {},
       "https://html.spec.whatwg.org/multipage/nav-history-apis.html": {
         "anchors": [
           "apis-for-creating-and-navigating-browsing-contexts-by-name:url-and-history-update-steps"
+        ]
+      },
+      "https://html.spec.whatwg.org/multipage/webappapis.html": {
+        "anchors": [
+          "event-handlers-on-elements,-document-objects,-and-window-objects"
         ]
       },
       "https://httpwg.org/specs/rfc8941.html": {},
@@ -190,6 +209,7 @@
         ]
       },
       "https://w3c.github.io/webappsec-cspee/": {},
+      "https://w3c.github.io/webappsec-mixed-content/": {},
       "https://w3c.github.io/webappsec-permissions-policy/": {
         "anchors": [
           "iframe-allow-attribute"
@@ -276,6 +296,11 @@
       "https://wpt.fyi/results/fenced-frame/history-back-and-forward-should-not-work-in-fenced-tree.https.html": {},
       "https://wpt.fyi/results/fenced-frame/history-length-fenced-navigations-replace-do-not-contribute-to-joint.https.html": {},
       "https://wpt.fyi/results/fenced-frame/history-length-outer-page-navigation-not-reflected-in-fenced.https.html": {},
+      "https://wpt.fyi/results/fenced-frame/notify-event-iframe.https.html": {},
+      "https://wpt.fyi/results/fenced-frame/notify-event-invalid.https.html": {},
+      "https://wpt.fyi/results/fenced-frame/notify-event-nested-fenced-frames.https.html": {},
+      "https://wpt.fyi/results/fenced-frame/notify-event-success.https.html": {},
+      "https://wpt.fyi/results/fenced-frame/notify-event-transient-user-activation.https.html": {},
       "https://wpt.fyi/results/fenced-frame/permission-api-denied-non-standard.https.html": {},
       "https://wpt.fyi/results/fenced-frame/permission-api-denied.https.html": {},
       "https://wpt.fyi/results/fenced-frame/permission-geolocation.https.html": {},
@@ -351,6 +376,11 @@
       "https://wpt.live/fenced-frame/history-back-and-forward-should-not-work-in-fenced-tree.https.html": {},
       "https://wpt.live/fenced-frame/history-length-fenced-navigations-replace-do-not-contribute-to-joint.https.html": {},
       "https://wpt.live/fenced-frame/history-length-outer-page-navigation-not-reflected-in-fenced.https.html": {},
+      "https://wpt.live/fenced-frame/notify-event-iframe.https.html": {},
+      "https://wpt.live/fenced-frame/notify-event-invalid.https.html": {},
+      "https://wpt.live/fenced-frame/notify-event-nested-fenced-frames.https.html": {},
+      "https://wpt.live/fenced-frame/notify-event-success.https.html": {},
+      "https://wpt.live/fenced-frame/notify-event-transient-user-activation.https.html": {},
       "https://wpt.live/fenced-frame/permission-api-denied-non-standard.https.html": {},
       "https://wpt.live/fenced-frame/permission-api-denied.https.html": {},
       "https://wpt.live/fenced-frame/permission-geolocation.https.html": {},
@@ -372,6 +402,13 @@
           "connected",
           "concept-node-document",
           "concept-element-attributes-change-ext",
+          "event",
+          "dom-event-istrusted",
+          "dispatch-flag",
+          "dom-event-type",
+          "concept-event-fire",
+          "dom-event-bubbles",
+          "dom-event-cancelable",
           "concept-document-origin",
           "concept-node-append",
           "concept-shadow-including-descendant",
@@ -411,6 +448,10 @@
           "concept-fetch",
           "process-response",
           "fetch-useparallelqueue",
+          "concept-fetch-group-terminate",
+          "concept-fetch-group",
+          "block-bad-port",
+          "concept-network-error",
           "concept-request-destination",
           "navigation-request",
           "non-subresource-request",
@@ -419,7 +460,6 @@
           "is-local",
           "concept-response-url",
           "cross-origin-resource-policy-check",
-          "concept-network-error",
           "queue-a-cross-origin-embedder-policy-corp-violation-report",
           "concept-header-list-get-structured-header",
           "concept-response-header-list"
@@ -491,6 +531,7 @@
           "navigation-params-navigable",
           "navigation-params-response",
           "snapshotting-source-snapshot-params",
+          "the-navigation-must-be-a-replace",
           "checking-if-unloading-is-user-canceled",
           "navigation-params",
           "initialise-the-document-object",
@@ -525,6 +566,8 @@
           "browsing-context",
           "content-navigable",
           "nav-traversable",
+          "fully-active",
+          "nav-window",
           "node-navigable",
           "creating-a-new-browsing-context",
           "document-base-url",
@@ -569,7 +612,8 @@
           "represents",
           "concept-document-permissions-policy",
           "concept-document-policy-container",
-          "the-document's-referrer"
+          "the-document's-referrer",
+          "global-attributes:event-handler-content-attributes"
         ]
       },
       "https://html.spec.whatwg.org/multipage/embedder-content-other.html": {
@@ -605,9 +649,10 @@
       },
       "https://html.spec.whatwg.org/multipage/interaction.html": {
         "anchors": [
-          "tracking-user-activation",
-          "activation-notification",
+          "transient-activation",
           "consume-user-activation",
+          "activation-notification",
+          "tracking-user-activation",
           "focusing-steps",
           "focused",
           "gains-focus",
@@ -679,7 +724,11 @@
           "fire-a-click-event",
           "queue-a-task",
           "event-loop",
-          "navigation-and-traversal-task-source"
+          "navigation-and-traversal-task-source",
+          "event-handlers",
+          "event-handler-event-type",
+          "globaleventhandlers",
+          "eventhandler"
         ]
       },
       "https://infra.spec.whatwg.org/": {
@@ -707,8 +756,9 @@
           "string-starts-with",
           "string-ends-with",
           "iteration-break",
-          "list-contain",
+          "ordered-set",
           "set-append",
+          "list-contain",
           "iteration-while",
           "list-extend",
           "iteration-continue",
@@ -727,6 +777,7 @@
       },
       "https://w3c.github.io/webappsec-csp/": {
         "anchors": [
+          "should-block-request",
           "source-expression",
           "grammardef-scheme-source",
           "grammardef-host-source",
@@ -749,6 +800,11 @@
         "anchors": [
           "browsing-context-required-csp",
           "process-response"
+        ]
+      },
+      "https://w3c.github.io/webappsec-mixed-content/": {
+        "anchors": [
+          "should-block-fetch"
         ]
       },
       "https://w3c.github.io/webappsec-permissions-policy": {
@@ -807,7 +863,9 @@
           "dfn-throw",
           "exceptiondef-typeerror",
           "a-new-promise",
-          "resolve"
+          "resolve",
+          "securityerror",
+          "reject"
         ]
       },
       "https://wicg.github.io/attribution-reporting-api/": {

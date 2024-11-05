@@ -3,6 +3,7 @@
 interface GPUDevice : EventTarget {
     [SameObject] readonly attribute GPUSupportedFeatures features;
     [SameObject] readonly attribute GPUSupportedLimits limits;
+    [SameObject] readonly attribute GPUAdapterInfo adapterInfo;
 
     [SameObject] readonly attribute GPUQueue queue;
 
@@ -45,6 +46,5 @@ partial interface GPUDevice {
 
 // Source: WebGPU (https://www.w3.org/TR/webgpu/)
 partial interface GPUDevice {
-    [Exposed=(Window, Worker)]
     attribute EventHandler onuncapturederror;
 };
