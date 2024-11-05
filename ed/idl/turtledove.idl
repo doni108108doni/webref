@@ -168,6 +168,18 @@ dictionary AdAuctionDataBuyerConfig {
   unsigned long targetSize;
 };
 
+dictionary StorageInterestGroup : AuctionAdInterestGroup {
+  unsigned long long joinCount;
+  unsigned long long bidCount;
+  sequence<PreviousWin> prevWinsMs;
+  USVString joiningOrigin;
+  long long timeSinceGroupJoinedMs;
+  long long lifetimeRemainingMs;
+  long long timeSinceLastUpdateMs;
+  long long timeUntilNextUpdateMs;
+  unsigned long long estimatedSize;
+};
+
 [SecureContext]
 partial interface Navigator {
   Promise<DOMString> createAuctionNonce();
@@ -175,6 +187,25 @@ partial interface Navigator {
 
 [Exposed=InterestGroupScriptRunnerGlobalScope]
 interface InterestGroupScriptRunnerGlobalScope {
+  readonly attribute PrivateAggregation? privateAggregation;
+};
+
+dictionary PASignalValue {
+  required DOMString baseValue;
+  double scale;
+  (bigint or long) offset;
+};
+
+dictionary PAExtendedHistogramContribution {
+  required (PASignalValue or bigint) bucket;
+  required (PASignalValue or long) value;
+  bigint filteringId = 0;
+};
+
+[Exposed=InterestGroupScriptRunnerGlobalScope]
+partial interface PrivateAggregation {
+  undefined contributeToHistogramOnEvent(
+      DOMString event, PAExtendedHistogramContribution contribution);
 };
 
 [Exposed=InterestGroupBiddingAndScoringScriptRunnerGlobalScope]

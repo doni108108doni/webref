@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-10-30T01:34:58.681Z",
+  "date": "2024-11-05T01:34:33.062Z",
   "options": {
     "fallback": "tr/index.json",
     "output": "report",
@@ -712,7 +712,7 @@
         "https://aomediacodec.github.io/av1-spec/"
       ],
       "crawled": "https://aomediacodec.github.io/av1-spec/av1-spec.pdf",
-      "date": "30 October 2024",
+      "date": "5 November 2024",
       "links": "links/av1-spec.json"
     },
     {
@@ -12262,11 +12262,11 @@
       ],
       "crawled": "https://www.w3.org/TR/mathml4/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 28 Oct 2024 22:32:05 GMT"
+        "lastModified": "Fri, 01 Nov 2024 22:29:44 GMT"
       },
       "generator": "respec",
-      "date": "28 October 2024",
-      "revision": "0fd07a16ffcd6ca853872fc88d4086ccc04cb6b1",
+      "date": "01 November 2024",
+      "revision": "4b21a52c30f73011fc559dcf497a481f1cc240b3",
       "algorithms": "algorithms/mathml4.json",
       "links": "links/mathml4.json",
       "refs": "refs/mathml4.json",
@@ -13027,11 +13027,11 @@
       ],
       "crawled": "https://www.w3.org/TR/mediastream-recording/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 11 May 2023 14:07:07 GMT"
+        "lastModified": "Thu, 31 Oct 2024 15:23:44 GMT"
       },
       "generator": "bikeshed",
-      "date": "11 May 2023",
-      "revision": "48e2abfad31d2e10ab6ba7652383de68cedff498",
+      "date": "31 October 2024",
+      "revision": "dbe375f40dc22a446e3eae65163e39e466e686bd",
       "algorithms": "algorithms/mediastream-recording.json",
       "links": "links/mediastream-recording.json",
       "refs": "refs/mediastream-recording.json",
@@ -13660,11 +13660,11 @@
       ],
       "crawled": "https://www.w3.org/TR/mst-content-hint/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 01 Aug 2024 14:15:46 GMT"
+        "lastModified": "Thu, 31 Oct 2024 15:34:54 GMT"
       },
       "generator": "respec",
-      "date": "01 August 2024",
-      "revision": "b2a6cfc345690424c7c00077ae8ca1e893252236",
+      "date": "31 October 2024",
+      "revision": "dd9f05d1c64bdc7b40a347b362e41983868eb75e",
       "algorithms": "algorithms/mst-content-hint.json",
       "links": "links/mst-content-hint.json",
       "refs": "refs/mst-content-hint.json",
@@ -13775,11 +13775,11 @@
       ],
       "crawled": "https://www.w3.org/TR/navigation-timing-2/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 29 Jul 2024 11:00:31 GMT"
+        "lastModified": "Mon, 04 Nov 2024 13:08:01 GMT"
       },
       "generator": "respec",
-      "date": "29 July 2024",
-      "revision": "f27ad34b01e80e99a065a868e07a7f64e83c7814",
+      "date": "04 November 2024",
+      "revision": "3f2e4b326961c3c78bbcb5824795b32abc952a22",
       "algorithms": "algorithms/navigation-timing-2.json",
       "links": "links/navigation-timing-2.json",
       "refs": "refs/navigation-timing-2.json",
@@ -15153,11 +15153,11 @@
       ],
       "crawled": "https://www.w3.org/TR/rdf12-concepts/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 29 Oct 2024 19:24:14 GMT"
+        "lastModified": "Thu, 31 Oct 2024 16:52:33 GMT"
       },
       "generator": "respec",
-      "date": "29 October 2024",
-      "revision": "f0ce6fc74e7cd643dea55c0d54dd3d703a6404ea",
+      "date": "31 October 2024",
+      "revision": "e24289d0cbfcff6436d0c2e684467047a801d76d",
       "algorithms": "algorithms/rdf12-concepts.json",
       "links": "links/rdf12-concepts.json",
       "refs": "refs/rdf12-concepts.json",
@@ -15483,11 +15483,11 @@
       ],
       "crawled": "https://www.w3.org/TR/rdf12-turtle/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 28 Oct 2024 17:31:26 GMT"
+        "lastModified": "Thu, 31 Oct 2024 16:53:04 GMT"
       },
       "generator": "respec",
-      "date": "28 October 2024",
-      "revision": "c91c04b0bd475cef2c12eb8904c0fca05e0e68b0",
+      "date": "31 October 2024",
+      "revision": "b4b38799e850d544a414f7efb783b5cdc51d64c6",
       "links": "links/rdf12-turtle.json",
       "refs": "refs/rdf12-turtle.json",
       "dfns": "dfns/rdf12-turtle.json",
@@ -15924,11 +15924,11 @@
       ],
       "crawled": "https://www.w3.org/TR/resource-timing/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 24 May 2024 19:46:20 GMT"
+        "lastModified": "Mon, 04 Nov 2024 13:43:12 GMT"
       },
       "generator": "respec",
-      "date": "24 May 2024",
-      "revision": "1cb5bd3b25b9388ae0eafaf9550b95fb36e103d6",
+      "date": "04 November 2024",
+      "revision": "0363ec98ae5d94e2769232829c68418539b7ad0f",
       "algorithms": "algorithms/resource-timing.json",
       "links": "links/resource-timing.json",
       "refs": "refs/resource-timing.json",
@@ -16383,11 +16383,11 @@
       ],
       "crawled": "https://www.w3.org/TR/selection-api/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 30 Sep 2024 15:53:25 GMT"
+        "lastModified": "Wed, 30 Oct 2024 19:18:07 GMT"
       },
       "generator": "respec",
-      "date": "30 September 2024",
-      "revision": "c0071c7920d1459c54bc2673dcfd924a4a5f4eae",
+      "date": "30 October 2024",
+      "revision": "97a072caeadb90c1c5efc4971d9861408511b3e7",
       "algorithms": "algorithms/selection-api.json",
       "links": "links/selection-api.json",
       "refs": "refs/selection-api.json",
@@ -16921,11 +16921,11 @@
       ],
       "crawled": "https://www.w3.org/TR/sparql12-query/",
       "crawlCacheInfo": {
-        "lastModified": "Sun, 13 Oct 2024 17:40:38 GMT"
+        "lastModified": "Thu, 31 Oct 2024 17:16:01 GMT"
       },
       "generator": "respec",
-      "date": "13 October 2024",
-      "revision": "6f8c0d75de44d91bf1f2b79acd4d5e0f36515bf6",
+      "date": "31 October 2024",
+      "revision": "78300a64987c5d6d6b8d763537595c042af5c7e2",
       "algorithms": "algorithms/sparql12-query.json",
       "links": "links/sparql12-query.json",
       "refs": "refs/sparql12-query.json",
@@ -18214,7 +18214,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "title": "User Timing Level 3",
+      "title": "User Timing",
       "source": "w3c",
       "shortTitle": "User Timing",
       "categories": [
@@ -18233,11 +18233,11 @@
       ],
       "crawled": "https://www.w3.org/TR/user-timing/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 14 Nov 2023 15:09:15 GMT"
+        "lastModified": "Thu, 31 Oct 2024 07:48:44 GMT"
       },
       "generator": "respec",
-      "date": "14 November 2023",
-      "revision": "9508b117c713223cd0e721dc11543dc5c1d45e7e",
+      "date": "31 October 2024",
+      "revision": "94c055c840dc6d7a7de20475eb0765316b986083",
       "algorithms": "algorithms/user-timing.json",
       "links": "links/user-timing.json",
       "refs": "refs/user-timing.json",
