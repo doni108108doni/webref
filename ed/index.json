@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-06T19:00:48.308Z",
+  "date": "2024-11-07T03:05:04.132Z",
   "options": {
     "useCrawl": "curated",
     "output": "curated",
@@ -681,9 +681,9 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 00:54:38 GMT"
+        "lastModified": "Thu, 07 Nov 2024 00:54:45 GMT"
       },
-      "date": "5 November 2024",
+      "date": "7 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
       "links": "links/rfc6265bis.json",
       "refs": "refs/rfc6265bis.json",
@@ -9131,11 +9131,11 @@
       ],
       "crawled": "https://webassembly.github.io/memory64/core/bikeshed/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 29 Oct 2024 16:33:45 GMT"
+        "lastModified": "Wed, 06 Nov 2024 23:55:06 GMT"
       },
       "generator": "bikeshed",
-      "date": "29 October 2024",
-      "revision": "1795669003672403e91392c9bf409c876df4dae5",
+      "date": "6 November 2024",
+      "revision": "ace09470a6aab8e31710c6835a70a344cbec051b",
       "algorithms": "algorithms/wasm-core-2-fork-memory64.json",
       "links": "links/wasm-core-2-fork-memory64.json",
       "refs": "refs/wasm-core-2-fork-memory64.json",
@@ -13317,11 +13317,11 @@
       ],
       "crawled": "https://wicg.github.io/turtledove/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 04 Nov 2024 21:54:04 GMT"
+        "lastModified": "Thu, 07 Nov 2024 02:27:30 GMT"
       },
       "generator": "bikeshed",
-      "date": "4 November 2024",
-      "revision": "88c813ddec3c0c29552216992ce6689c1f0af455",
+      "date": "7 November 2024",
+      "revision": "8f5dfad71a52f93fdff0451d4aaf9d6cb5809c2d",
       "algorithms": "algorithms/turtledove.json",
       "links": "links/turtledove.json",
       "refs": "refs/turtledove.json",
@@ -27443,10 +27443,10 @@
       ],
       "crawled": "https://w3c.github.io/mathml/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 01 Nov 2024 22:29:43 GMT"
+        "lastModified": "Thu, 07 Nov 2024 01:24:42 GMT"
       },
       "generator": "respec",
-      "date": "01 November 2024",
+      "date": "07 November 2024",
       "algorithms": "algorithms/mathml4.json",
       "links": "links/mathml4.json",
       "refs": "refs/mathml4.json",
@@ -35509,10 +35509,10 @@
       ],
       "crawled": "https://gpuweb.github.io/gpuweb/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 00:36:28 GMT"
+        "lastModified": "Wed, 06 Nov 2024 19:32:29 GMT"
       },
       "generator": "bikeshed",
-      "date": "5 November 2024",
+      "date": "6 November 2024",
       "algorithms": "algorithms/webgpu.json",
       "links": "links/webgpu.json",
       "refs": "refs/webgpu.json",
@@ -36805,10 +36805,10 @@
       ],
       "crawled": "https://gpuweb.github.io/gpuweb/wgsl/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 00:36:28 GMT"
+        "lastModified": "Wed, 06 Nov 2024 19:32:29 GMT"
       },
       "generator": "bikeshed",
-      "date": "5 November 2024",
+      "date": "6 November 2024",
       "algorithms": "algorithms/WGSL.json",
       "links": "links/WGSL.json",
       "refs": "refs/WGSL.json",
