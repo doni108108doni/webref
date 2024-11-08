@@ -55,6 +55,11 @@
       "https://github.com/ondyari/FaceForensics": {},
       "https://github.com/tensorflow/nmt": {},
       "https://github.com/webmachinelearning/webmachinelearning-ethics": {},
+      "https://github.com/webmachinelearning/webnn/blob/main/mltensor-explainer.md": {
+        "anchors": [
+          "compute-vs-dispatch"
+        ]
+      },
       "https://github.com/webmachinelearning/webnn/blob/master/explainer.md": {},
       "https://github.com/webmachinelearning/webnn/blob/master/op_compatibility/first_wave_models.md": {},
       "https://github.com/webmachinelearning/webnn/issues": {},
@@ -103,7 +108,11 @@
       "https://www.w3.org/TR/permissions-policy-1/": {},
       "https://www.w3.org/TR/secure-contexts/": {},
       "https://www.w3.org/TR/security-privacy-questionnaire/": {},
-      "https://www.w3.org/TR/webgpu/": {},
+      "https://www.w3.org/TR/webgpu/": {
+        "anchors": [
+          "security-dos"
+        ]
+      },
       "https://www.w3.org/TR/webmachinelearning-ethics/": {},
       "https://www.w3.org/groups/wg/webmachinelearning": {},
       "https://www.w3.org/groups/wg/webmachinelearning/ipr": {},
@@ -237,8 +246,10 @@
           "EnforceRange",
           "idl-unsigned-long",
           "idl-long",
+          "idl-frozen-array",
           "idl-bigint",
           "idl-unrestricted-double",
+          "getter-steps",
           "idl-double",
           "idl-long-long",
           "dfn-numeric-type",
