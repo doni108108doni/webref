@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-08T07:01:36.478Z",
+  "date": "2024-11-08T13:37:22.428Z",
   "options": {
     "useCrawl": "curated",
     "output": "curated",
@@ -1078,7 +1078,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-color-6/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "15 September 2024",
@@ -1305,7 +1305,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-env-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "30 August 2024",
@@ -2436,7 +2436,7 @@
       "dfns": "dfns/fido-v2.1.json",
       "headings": "headings/fido-v2.1.json",
       "ids": "ids/fido-v2.1.json",
-      "error": "Error: Loading https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-errata-20220621.html triggered HTTP status 522\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
+      "error": "Error: Switch option without <dd> found: authorized, the authenticator sets the minPinLength return value to the current minimum PIN length value.\n        \nhttps://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:550:19\nArray.map (<anonymous>)\nserializeSteps (https://fidoalliance.org/specs/fido-v2.1-ps-20210615/reffy/scripts/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/__/extract-algorithms.mjs:544:53)\n    at evaluate (evaluate at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:36), <anonymous>:6:28)\n    at #evaluate (file:///home/runner/work/webref/webref/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:383:19)\n    at async ExecutionContext.evaluate (file:///home/runner/work/webref/webref/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/ExecutionContext.js:270:16)\n    at async IsolatedWorld.evaluate (file:///home/runner/work/webref/webref/node_modules/puppeteer-core/lib/esm/puppeteer/cdp/IsolatedWorld.js:97:16)\n    at async CdpFrame.evaluate (file:///home/runner/work/webref/webref/node_modules/puppeteer-core/lib/esm/puppeteer/api/Frame.js:336:20)\n    at async CdpPage.evaluate (file:///home/runner/work/webref/webref/node_modules/puppeteer-core/lib/esm/puppeteer/api/Page.js:801:20)\n    at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:656:25)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)",
       "idlparsed": "idlparsed/fido-v2.1.json"
     },
     {
@@ -6416,9 +6416,9 @@
       ],
       "crawled": "https://tc39.es/ecma262/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 31 Oct 2024 06:16:05 GMT"
+        "lastModified": "Fri, 08 Nov 2024 11:42:18 GMT"
       },
-      "date": "31 October 2024",
+      "date": "8 November 2024",
       "links": "links/ecmascript.json",
       "dfns": "dfns/ecmascript.json",
       "headings": "headings/ecmascript.json",
@@ -17646,7 +17646,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-backgrounds-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "16 September 2024",
@@ -20700,7 +20700,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-overflow-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "21 June 2024",
@@ -21428,7 +21428,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-round-display-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "1 August 2024",
@@ -21905,7 +21905,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-shadow-parts-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "5 September 2024",
@@ -23130,7 +23130,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-ui-4/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "1 November 2024",
@@ -23741,7 +23741,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-writing-modes-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "28 August 2023",
@@ -27443,10 +27443,10 @@
       ],
       "crawled": "https://w3c.github.io/mathml/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 01:24:42 GMT"
+        "lastModified": "Fri, 08 Nov 2024 09:00:01 GMT"
       },
       "generator": "respec",
-      "date": "07 November 2024",
+      "date": "08 November 2024",
       "algorithms": "algorithms/mathml4.json",
       "links": "links/mathml4.json",
       "refs": "refs/mathml4.json",
@@ -33859,11 +33859,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/core/bikeshed/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 08:17:05 GMT"
+        "lastModified": "Fri, 08 Nov 2024 10:43:25 GMT"
       },
       "generator": "bikeshed",
-      "date": "7 November 2024",
-      "revision": "1904486128cbbb35e4c6e3b3e2b789be484cb40c",
+      "date": "8 November 2024",
+      "revision": "5d12bd74c49932deb7ab4bae3d29bf106f19d10b",
       "algorithms": "algorithms/wasm-core-2.json",
       "links": "links/wasm-core-2.json",
       "refs": "refs/wasm-core-2.json",
@@ -33931,11 +33931,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/js-api/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 08:17:05 GMT"
+        "lastModified": "Fri, 08 Nov 2024 10:43:25 GMT"
       },
       "generator": "bikeshed",
-      "date": "7 November 2024",
-      "revision": "1904486128cbbb35e4c6e3b3e2b789be484cb40c",
+      "date": "8 November 2024",
+      "revision": "5d12bd74c49932deb7ab4bae3d29bf106f19d10b",
       "algorithms": "algorithms/wasm-js-api-2.json",
       "links": "links/wasm-js-api-2.json",
       "refs": "refs/wasm-js-api-2.json",
@@ -33997,11 +33997,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/web-api/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 08:17:05 GMT"
+        "lastModified": "Fri, 08 Nov 2024 10:43:24 GMT"
       },
       "generator": "bikeshed",
-      "date": "7 November 2024",
-      "revision": "1904486128cbbb35e4c6e3b3e2b789be484cb40c",
+      "date": "8 November 2024",
+      "revision": "5d12bd74c49932deb7ab4bae3d29bf106f19d10b",
       "algorithms": "algorithms/wasm-web-api-2.json",
       "links": "links/wasm-web-api-2.json",
       "refs": "refs/wasm-web-api-2.json",
@@ -35378,11 +35378,11 @@
       ],
       "crawled": "https://w3c.github.io/webcrypto/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 25 Oct 2024 10:48:48 GMT"
+        "lastModified": "Fri, 08 Nov 2024 12:40:54 GMT"
       },
       "generator": "respec",
-      "date": "25 October 2024",
-      "revision": "85a4826977731f0e7952f6876946a042d5697098",
+      "date": "08 November 2024",
+      "revision": "d4ffcadeba2d6d9e71550b4dd3ee0877ba760e39",
       "algorithms": "algorithms/WebCryptoAPI.json",
       "links": "links/WebCryptoAPI.json",
       "refs": "refs/WebCryptoAPI.json",
