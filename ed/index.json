@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-08T13:35:19.931Z",
+  "date": "2024-11-08T18:53:01.963Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -1768,7 +1768,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-color-hdr/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "31 October 2024",
@@ -3323,9 +3323,9 @@
       ],
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 14:48:01 GMT"
+        "lastModified": "Fri, 08 Nov 2024 13:34:35 GMT"
       },
-      "date": "5 November 2024",
+      "date": "8 November 2024",
       "algorithms": "algorithms/html.json",
       "links": "links/html.json",
       "refs": "refs/html.json",
@@ -6991,7 +6991,7 @@
       ],
       "crawled": "https://tc39.es/ecma262/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 11:42:18 GMT"
+        "lastModified": "Fri, 08 Nov 2024 11:42:19 GMT"
       },
       "date": "8 November 2024",
       "links": "links/ecmascript.json",
@@ -11306,11 +11306,11 @@
       ],
       "crawled": "https://wicg.github.io/fenced-frame/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 04 Nov 2024 17:12:15 GMT"
+        "lastModified": "Fri, 08 Nov 2024 15:05:28 GMT"
       },
       "generator": "bikeshed",
-      "date": "4 November 2024",
-      "revision": "feb1afdad23300ca049461ebe41255d7f48872e7",
+      "date": "8 November 2024",
+      "revision": "01cf852003d17ac8faec9e289e1a6e2578a11fab",
       "algorithms": "algorithms/fenced-frame.json",
       "links": "links/fenced-frame.json",
       "refs": "refs/fenced-frame.json",
@@ -13825,11 +13825,11 @@
       ],
       "crawled": "https://wicg.github.io/turtledove/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 02:27:30 GMT"
+        "lastModified": "Fri, 08 Nov 2024 17:40:06 GMT"
       },
       "generator": "bikeshed",
-      "date": "7 November 2024",
-      "revision": "8f5dfad71a52f93fdff0451d4aaf9d6cb5809c2d",
+      "date": "8 November 2024",
+      "revision": "c1bb626fb983669e3a9b249f830fd9e0f7ef46e3",
       "algorithms": "algorithms/turtledove.json",
       "links": "links/turtledove.json",
       "refs": "refs/turtledove.json",
@@ -23989,7 +23989,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-view-transitions-2/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "7 November 2024",
@@ -24606,7 +24606,7 @@
       ],
       "crawled": "https://drafts.csswg.org/cssom-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 00:41:26 GMT"
+        "lastModified": "Fri, 08 Nov 2024 00:41:27 GMT"
       },
       "generator": "bikeshed",
       "date": "1 October 2024",
@@ -31898,11 +31898,11 @@
       ],
       "crawled": "https://w3c.github.io/secure-payment-confirmation/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 20:58:50 GMT"
+        "lastModified": "Fri, 08 Nov 2024 16:11:35 GMT"
       },
       "generator": "bikeshed",
-      "date": "7 November 2024",
-      "revision": "94dc02474d4309c31607d66700db729cdcc957a7",
+      "date": "8 November 2024",
+      "revision": "6295618cfa93a02b187a5a6de5e3c9cfcc1931d5",
       "algorithms": "algorithms/secure-payment-confirmation.json",
       "links": "links/secure-payment-confirmation.json",
       "refs": "refs/secure-payment-confirmation.json",
