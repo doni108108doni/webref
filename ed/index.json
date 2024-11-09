@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-09T13:33:15.516Z",
+  "date": "2024-11-09T18:51:30.631Z",
   "options": {
     "useCrawl": "curated",
     "output": "curated",
@@ -33997,7 +33997,7 @@
       ],
       "crawled": "https://webassembly.github.io/spec/web-api/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 10:43:24 GMT"
+        "lastModified": "Fri, 08 Nov 2024 10:43:25 GMT"
       },
       "generator": "bikeshed",
       "date": "8 November 2024",
