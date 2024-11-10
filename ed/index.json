@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-09T18:51:30.631Z",
+  "date": "2024-11-10T03:06:46.693Z",
   "options": {
     "useCrawl": "curated",
     "output": "curated",
@@ -681,9 +681,9 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 21:13:51 GMT"
+        "lastModified": "Sun, 10 Nov 2024 00:57:43 GMT"
       },
-      "date": "8 November 2024",
+      "date": "10 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
       "links": "links/rfc6265bis.json",
       "refs": "refs/rfc6265bis.json",
