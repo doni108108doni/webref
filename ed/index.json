@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-10T18:49:27.358Z",
+  "date": "2024-11-11T03:03:18.176Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -35991,7 +35991,7 @@
       ],
       "crawled": "https://webmachinelearning.github.io/webnn/",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 09 Nov 2024 02:22:26 GMT"
+        "lastModified": "Sat, 09 Nov 2024 02:22:27 GMT"
       },
       "generator": "bikeshed",
       "date": "9 November 2024",
