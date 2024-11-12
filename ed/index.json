@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-12T06:59:21.148Z",
+  "date": "2024-11-12T13:36:59.785Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -6724,10 +6724,10 @@
       ],
       "crawled": "https://screen-share.github.io/element-capture/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 22:15:08 GMT"
+        "lastModified": "Tue, 12 Nov 2024 10:04:42 GMT"
       },
       "generator": "respec",
-      "date": "08 November 2024",
+      "date": "12 November 2024",
       "algorithms": "algorithms/element-capture.json",
       "links": "links/element-capture.json",
       "refs": "refs/element-capture.json",
@@ -8028,7 +8028,7 @@
           "url": "https://tc39.es/"
         }
       ],
-      "title": "Source Map",
+      "title": "Source Map Format Specification",
       "source": "spec",
       "shortTitle": "Source Map",
       "categories": [
@@ -8040,11 +8040,11 @@
       ],
       "crawled": "https://tc39.es/source-map/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 11 Nov 2024 17:35:23 GMT"
+        "lastModified": "Tue, 12 Nov 2024 08:14:00 GMT"
       },
       "generator": "bikeshed",
-      "date": "30 October 2024",
-      "revision": "4abf9df869ca7a10fa6cc3fcaca9dca9af444042",
+      "date": "12 November 2024",
+      "revision": "41e21329b5fdef9504c98a6f860cc09a67e32b5d",
       "links": "links/sourcemap.json",
       "refs": "refs/sourcemap.json",
       "dfns": "dfns/sourcemap.json",
@@ -9056,11 +9056,11 @@
       ],
       "crawled": "https://w3c.github.io/webdriver-bidi/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 06 Nov 2024 13:54:57 GMT"
+        "lastModified": "Tue, 12 Nov 2024 08:48:56 GMT"
       },
       "generator": "bikeshed",
-      "date": "6 November 2024",
-      "revision": "ee07a90163c6232ed3c1125fa823ca9ffc9cfb8a",
+      "date": "12 November 2024",
+      "revision": "a9e13a5e25ad55bc49a77eb8da6ac7669dfa06b0",
       "algorithms": "algorithms/webdriver-bidi.json",
       "links": "links/webdriver-bidi.json",
       "refs": "refs/webdriver-bidi.json",
@@ -34237,11 +34237,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/core/bikeshed/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 10:43:25 GMT"
+        "lastModified": "Tue, 12 Nov 2024 08:58:35 GMT"
       },
       "generator": "bikeshed",
-      "date": "8 November 2024",
-      "revision": "5d12bd74c49932deb7ab4bae3d29bf106f19d10b",
+      "date": "12 November 2024",
+      "revision": "bd2aa85d5f6c6129760a3705f4de8acdb45b8e67",
       "algorithms": "algorithms/wasm-core-2.json",
       "links": "links/wasm-core-2.json",
       "refs": "refs/wasm-core-2.json",
@@ -34309,11 +34309,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/js-api/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 10:43:25 GMT"
+        "lastModified": "Tue, 12 Nov 2024 08:58:35 GMT"
       },
       "generator": "bikeshed",
-      "date": "8 November 2024",
-      "revision": "5d12bd74c49932deb7ab4bae3d29bf106f19d10b",
+      "date": "12 November 2024",
+      "revision": "bd2aa85d5f6c6129760a3705f4de8acdb45b8e67",
       "algorithms": "algorithms/wasm-js-api-2.json",
       "links": "links/wasm-js-api-2.json",
       "refs": "refs/wasm-js-api-2.json",
@@ -34374,11 +34374,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/web-api/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 08 Nov 2024 10:43:25 GMT"
+        "lastModified": "Tue, 12 Nov 2024 08:58:35 GMT"
       },
       "generator": "bikeshed",
-      "date": "8 November 2024",
-      "revision": "5d12bd74c49932deb7ab4bae3d29bf106f19d10b",
+      "date": "12 November 2024",
+      "revision": "bd2aa85d5f6c6129760a3705f4de8acdb45b8e67",
       "algorithms": "algorithms/wasm-web-api-2.json",
       "links": "links/wasm-web-api-2.json",
       "refs": "refs/wasm-web-api-2.json",
