@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-12T13:36:59.785Z",
+  "date": "2024-11-12T18:52:39.744Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -1321,7 +1321,7 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 12 Nov 2024 00:53:50 GMT"
+        "lastModified": "Tue, 12 Nov 2024 15:16:07 GMT"
       },
       "date": "12 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
@@ -7497,9 +7497,9 @@
       ],
       "crawled": "https://tc39.es/proposal-intl-duration-format/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 06 Nov 2024 15:37:41 GMT"
+        "lastModified": "Tue, 12 Nov 2024 17:23:03 GMT"
       },
-      "date": "6 November 2024",
+      "date": "12 November 2024",
       "links": "links/tc39-intl-duration-format.json",
       "headings": "headings/tc39-intl-duration-format.json",
       "ids": "ids/tc39-intl-duration-format.json"
@@ -10228,10 +10228,10 @@
       ],
       "crawled": "https://wicg.github.io/attribution-reporting-api/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 11 Nov 2024 18:06:50 GMT"
+        "lastModified": "Tue, 12 Nov 2024 18:19:59 GMT"
       },
       "generator": "bikeshed",
-      "date": "11 November 2024",
+      "date": "12 November 2024",
       "algorithms": "algorithms/attribution-reporting-api.json",
       "links": "links/attribution-reporting-api.json",
       "refs": "refs/attribution-reporting-api.json",
@@ -14900,9 +14900,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc6386",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 06:48:30 GMT"
+        "lastModified": "Tue, 12 Nov 2024 12:43:05 GMT"
       },
-      "date": "5 November 2024",
+      "date": "12 November 2024",
       "links": "links/rfc6386.json",
       "ids": "ids/rfc6386.json"
     },
@@ -15035,9 +15035,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7034",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 00:27:41 GMT"
+        "lastModified": "Tue, 12 Nov 2024 03:05:27 GMT"
       },
-      "date": "5 November 2024",
+      "date": "12 November 2024",
       "links": "links/rfc7034.json",
       "ids": "ids/rfc7034.json"
     },
@@ -15080,9 +15080,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7239",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 01:31:18 GMT"
+        "lastModified": "Tue, 12 Nov 2024 08:45:42 GMT"
       },
-      "date": "5 November 2024",
+      "date": "12 November 2024",
       "links": "links/rfc7239.json",
       "ids": "ids/rfc7239.json"
     },
@@ -15170,9 +15170,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7578",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 04 Nov 2024 22:02:10 GMT"
+        "lastModified": "Mon, 11 Nov 2024 22:17:33 GMT"
       },
-      "date": "4 November 2024",
+      "date": "11 November 2024",
       "links": "links/rfc7578.json",
       "ids": "ids/rfc7578.json"
     },
@@ -15415,9 +15415,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7932",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 06:48:41 GMT"
+        "lastModified": "Tue, 12 Nov 2024 10:21:04 GMT"
       },
-      "date": "5 November 2024",
+      "date": "12 November 2024",
       "links": "links/rfc7932.json",
       "ids": "ids/rfc7932.json"
     },
@@ -15709,9 +15709,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc8942",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 05 Nov 2024 01:10:27 GMT"
+        "lastModified": "Tue, 12 Nov 2024 04:11:29 GMT"
       },
-      "date": "5 November 2024",
+      "date": "12 November 2024",
       "links": "links/rfc8942.json",
       "refs": "refs/rfc8942.json",
       "headings": "headings/rfc8942.json",
@@ -29688,11 +29688,11 @@
       ],
       "crawled": "https://w3c.github.io/paint-timing/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 11 Nov 2024 19:21:12 GMT"
+        "lastModified": "Tue, 12 Nov 2024 15:11:48 GMT"
       },
       "generator": "bikeshed",
-      "date": "11 November 2024",
-      "revision": "52d10fc9c048c557873e8d9a08ef99cf53bdde00",
+      "date": "12 November 2024",
+      "revision": "a4a2a86643bc1664ed544541061641874bf4e28f",
       "algorithms": "algorithms/paint-timing.json",
       "links": "links/paint-timing.json",
       "refs": "refs/paint-timing.json",
