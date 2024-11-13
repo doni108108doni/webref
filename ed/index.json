@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-13T06:59:16.869Z",
+  "date": "2024-11-13T13:37:15.904Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 2
+    "errors": 1
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -2053,7 +2053,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-forms-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "15 October 2024",
@@ -2469,7 +2469,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-page-4/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "12 May 2023",
@@ -2529,7 +2529,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-position-4/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "29 October 2024",
@@ -4322,8 +4322,7 @@
       "date": "29 July 2023",
       "links": "links/glTF.json",
       "headings": "headings/glTF.json",
-      "ids": "ids/glTF.json",
-      "error": "Error: Loading https://registry.khronos.org/glTF/specs/2.0/glTF-2.0.html triggered network error\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:478:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22) {\n  [cause]: TypeError: fetch failed\n      at node:internal/deps/undici/undici:13185:13\n      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:491:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async fetchWithRetry (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:497:16)\n      at async conditionalFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:501:20)\n      at async cacheFetch (/home/runner/work/webref/webref/node_modules/fetch-filecache-for-crawling/fetch-filecache.js:531:24)\n      at async processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:472:24)\n      at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22) {\n    [cause]: AggregateError [ETIMEDOUT]: \n        at internalConnectMultiple (node:net:1118:18)\n        at internalConnectMultiple (node:net:1186:5)\n        at Timeout.internalConnectMultipleTimeout (node:net:1712:5)\n        at listOnTimeout (node:internal/timers:583:11)\n        at process.processTimers (node:internal/timers:519:7) {\n      code: 'ETIMEDOUT',\n      [errors]: [Array]\n    }\n  }\n}"
+      "ids": "ids/glTF.json"
     },
     {
       "url": "https://registry.khronos.org/OpenGL/specs/es/3.2/GLSL_ES_Specification_3.20.html",
@@ -8299,11 +8298,11 @@
       ],
       "crawled": "https://w3c.github.io/audio-session/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 12 Nov 2024 21:29:40 GMT"
+        "lastModified": "Wed, 13 Nov 2024 10:58:05 GMT"
       },
       "generator": "bikeshed",
-      "date": "12 November 2024",
-      "revision": "0b93b788cabc2f137df6b17c208e9b28c62836bc",
+      "date": "13 November 2024",
+      "revision": "0a2b378127fd70bb92712883a82a2f63e05df852",
       "algorithms": "algorithms/audio-session.json",
       "links": "links/audio-session.json",
       "refs": "refs/audio-session.json",
@@ -17668,7 +17667,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-2022/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "28 August 2023",
@@ -17856,7 +17855,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-anchor-position-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "29 October 2024",
@@ -18398,7 +18397,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-break-4/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "11 March 2024",
@@ -20173,7 +20172,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-grid-2/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "3 October 2024",
@@ -20303,7 +20302,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-highlight-api-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "15 October 2024",
@@ -20704,7 +20703,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-lists-3/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "24 January 2024",
@@ -21371,7 +21370,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-page-3/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "5 December 2023",
@@ -21892,7 +21891,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-round-display-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "1 August 2024",
@@ -22164,7 +22163,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-scroll-snap-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "11 April 2024",
@@ -22369,7 +22368,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-shadow-parts-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "5 September 2024",
@@ -23522,7 +23521,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-ui-3/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "27 February 2023",
@@ -23590,7 +23589,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-ui-4/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 00:34:05 GMT"
+        "lastModified": "Wed, 13 Nov 2024 00:34:06 GMT"
       },
       "generator": "bikeshed",
       "date": "1 November 2024",
@@ -34770,11 +34769,11 @@
       ],
       "crawled": "https://w3c.github.io/webauthn/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 29 Oct 2024 15:35:31 GMT"
+        "lastModified": "Wed, 13 Nov 2024 12:46:44 GMT"
       },
       "generator": "bikeshed",
-      "date": "29 October 2024",
-      "revision": "406ec42a3b8667405f4b9056efa49808c0f5aaac",
+      "date": "13 November 2024",
+      "revision": "92e101570d4b1f06121b3f7d3215cc68e5da4019",
       "algorithms": "algorithms/webauthn-3.json",
       "links": "links/webauthn-3.json",
       "refs": "refs/webauthn-3.json",
