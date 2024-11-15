@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-14T18:51:56.204Z",
+  "date": "2024-11-15T02:15:53.339Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 2
+    "errors": 1
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -1321,9 +1321,9 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 21:11:58 GMT"
+        "lastModified": "Thu, 14 Nov 2024 22:47:53 GMT"
       },
-      "date": "13 November 2024",
+      "date": "14 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
       "links": "links/rfc6265bis.json",
       "refs": "refs/rfc6265bis.json",
@@ -6266,8 +6266,7 @@
       },
       "date": "31 October 2024",
       "links": "links/WEBGL_draw_buffers.json",
-      "idl": "idl/WEBGL_draw_buffers.idl",
-      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 103)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
+      "idl": "idl/WEBGL_draw_buffers.idl"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_instanced_base_vertex_base_instance/",
@@ -13509,11 +13508,11 @@
       ],
       "crawled": "https://wicg.github.io/shared-storage/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 13 Nov 2024 21:24:21 GMT"
+        "lastModified": "Thu, 14 Nov 2024 19:04:07 GMT"
       },
       "generator": "bikeshed",
-      "date": "13 November 2024",
-      "revision": "adc7252af9dd8edb4c48b5370bd57bda32bb43c6",
+      "date": "14 November 2024",
+      "revision": "0eccc1d3f137a5270085e4463991d80a628606fc",
       "algorithms": "algorithms/shared-storage.json",
       "links": "links/shared-storage.json",
       "refs": "refs/shared-storage.json",
@@ -17410,11 +17409,11 @@
       ],
       "crawled": "https://w3c.github.io/core-aam/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 15 Oct 2024 17:44:08 GMT"
+        "lastModified": "Thu, 14 Nov 2024 19:55:37 GMT"
       },
       "generator": "respec",
-      "date": "15 October 2024",
-      "revision": "b6e04920d08670848dfdd435db5575d92b603b61",
+      "date": "14 November 2024",
+      "revision": "83872bfd88adfe416fc07f850db2ba78629a97aa",
       "links": "links/core-aam-1.2.json",
       "refs": "refs/core-aam-1.2.json",
       "dfns": "dfns/core-aam-1.2.json",
@@ -30744,10 +30743,10 @@
       ],
       "crawled": "https://w3c.github.io/rdf-concepts/spec/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 07 Nov 2024 19:17:58 GMT"
+        "lastModified": "Thu, 14 Nov 2024 21:19:48 GMT"
       },
       "generator": "respec",
-      "date": "07 November 2024",
+      "date": "14 November 2024",
       "algorithms": "algorithms/rdf12-concepts.json",
       "links": "links/rdf12-concepts.json",
       "refs": "refs/rdf12-concepts.json",
