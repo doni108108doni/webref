@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-16T06:51:00.375Z",
+  "date": "2024-11-16T13:04:21.887Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -18128,7 +18128,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-backgrounds-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "16 September 2024",
@@ -20302,7 +20302,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-highlight-api-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "15 October 2024",
@@ -21891,7 +21891,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-round-display-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "1 August 2024",
@@ -22368,7 +22368,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-shadow-parts-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "5 September 2024",
@@ -24264,7 +24264,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-writing-modes-4/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "28 August 2023",
@@ -24606,7 +24606,7 @@
       ],
       "crawled": "https://drafts.csswg.org/cssom-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "1 October 2024",
@@ -31442,7 +31442,7 @@
       ],
       "crawled": "https://drafts.csswg.org/resize-observer-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "27 January 2023",
