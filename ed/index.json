@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-16T13:04:21.887Z",
+  "date": "2024-11-16T18:49:08.399Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 1
+    "errors": 2
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -1321,9 +1321,9 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 16:34:53 GMT"
+        "lastModified": "Sat, 16 Nov 2024 17:11:22 GMT"
       },
-      "date": "15 November 2024",
+      "date": "16 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
       "links": "links/rfc6265bis.json",
       "refs": "refs/rfc6265bis.json",
@@ -10228,10 +10228,10 @@
       ],
       "crawled": "https://wicg.github.io/attribution-reporting-api/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 18:47:18 GMT"
+        "lastModified": "Sat, 16 Nov 2024 16:33:32 GMT"
       },
       "generator": "bikeshed",
-      "date": "15 November 2024",
+      "date": "16 November 2024",
       "algorithms": "algorithms/attribution-reporting-api.json",
       "links": "links/attribution-reporting-api.json",
       "refs": "refs/attribution-reporting-api.json",
@@ -19899,7 +19899,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-fonts-4/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "29 October 2024",
@@ -24197,7 +24197,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-writing-modes-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "28 August 2023",
@@ -30265,7 +30265,8 @@
       "refs": "refs/png-3.json",
       "dfns": "dfns/png-3.json",
       "headings": "headings/png-3.json",
-      "ids": "ids/png-3.json"
+      "ids": "ids/png-3.json",
+      "error": "Error: Loading https://w3c.github.io/png/ triggered HTTP status 503\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 516)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://www.w3.org/TR/pointerevents3/",
@@ -34512,7 +34513,7 @@
       ],
       "crawled": "https://drafts.csswg.org/web-animations-2/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "15 May 2024",
