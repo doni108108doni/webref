@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-17T06:51:55.181Z",
+  "date": "2024-11-17T13:03:47.138Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 4
+    "errors": 9
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -4616,8 +4616,7 @@
       },
       "date": "31 October 2024",
       "links": "links/EXT_disjoint_timer_query_webgl2.json",
-      "idl": "idl/EXT_disjoint_timer_query_webgl2.idl",
-      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 70)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
+      "idl": "idl/EXT_disjoint_timer_query_webgl2.idl"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query/",
@@ -4717,8 +4716,7 @@
       },
       "date": "31 October 2024",
       "links": "links/EXT_float_blend.json",
-      "idl": "idl/EXT_float_blend.idl",
-      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_float_blend/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 72)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
+      "idl": "idl/EXT_float_blend.idl"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/EXT_frag_depth/",
@@ -4968,7 +4966,8 @@
       },
       "date": "31 October 2024",
       "links": "links/EXT_texture_compression_rgtc.json",
-      "idl": "idl/EXT_texture_compression_rgtc.idl"
+      "idl": "idl/EXT_texture_compression_rgtc.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_texture_compression_rgtc/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 77)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/EXT_texture_filter_anisotropic/",
@@ -5168,8 +5167,7 @@
       },
       "date": "31 October 2024",
       "links": "links/OES_draw_buffers_indexed.json",
-      "idl": "idl/OES_draw_buffers_indexed.idl",
-      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)"
+      "idl": "idl/OES_draw_buffers_indexed.idl"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -5269,7 +5267,8 @@
       },
       "date": "31 October 2024",
       "links": "links/OES_fbo_render_mipmap.json",
-      "idl": "idl/OES_fbo_render_mipmap.idl"
+      "idl": "idl/OES_fbo_render_mipmap.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_fbo_render_mipmap/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 83)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/OES_standard_derivatives/",
@@ -5519,7 +5518,8 @@
       },
       "date": "31 October 2024",
       "links": "links/OES_texture_half_float.json",
-      "idl": "idl/OES_texture_half_float.idl"
+      "idl": "idl/OES_texture_half_float.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_texture_half_float/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 88)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/OES_vertex_array_object/",
@@ -5619,7 +5619,8 @@
       },
       "date": "31 October 2024",
       "links": "links/OVR_multiview2.json",
-      "idl": "idl/OVR_multiview2.idl"
+      "idl": "idl/OVR_multiview2.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OVR_multiview2/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 90)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_blend_equation_advanced_coherent/",
@@ -6119,7 +6120,8 @@
       },
       "date": "31 October 2024",
       "links": "links/WEBGL_debug_renderer_info.json",
-      "idl": "idl/WEBGL_debug_renderer_info.idl"
+      "idl": "idl/WEBGL_debug_renderer_info.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_debug_renderer_info/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 100)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_debug_shaders/",
@@ -6219,7 +6221,8 @@
       },
       "date": "31 October 2024",
       "links": "links/WEBGL_depth_texture.json",
-      "idl": "idl/WEBGL_depth_texture.idl"
+      "idl": "idl/WEBGL_depth_texture.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_depth_texture/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 102)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_draw_buffers/",
@@ -6369,7 +6372,8 @@
       },
       "date": "31 October 2024",
       "links": "links/WEBGL_lose_context.json",
-      "idl": "idl/WEBGL_lose_context.idl"
+      "idl": "idl/WEBGL_lose_context.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/WEBGL_lose_context/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 105)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/WEBGL_multi_draw_instanced_base_vertex_base_instance/",
@@ -6631,7 +6635,8 @@
       "idl": "idl/webgl2.idl",
       "dfns": "dfns/webgl2.json",
       "headings": "headings/webgl2.json",
-      "ids": "ids/webgl2.json"
+      "ids": "ids/webgl2.json",
+      "error": "Error: Loading https://registry.khronos.org/webgl/specs/latest/2.0/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 110)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://screen-share.github.io/captured-mouse-events/",
