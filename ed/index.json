@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-16T18:49:08.399Z",
+  "date": "2024-11-17T02:19:57.451Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 2
+    "errors": 1
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -1321,9 +1321,9 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 16 Nov 2024 17:11:22 GMT"
+        "lastModified": "Sun, 17 Nov 2024 01:01:30 GMT"
       },
-      "date": "16 November 2024",
+      "date": "17 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
       "links": "links/rfc6265bis.json",
       "refs": "refs/rfc6265bis.json",
@@ -20371,7 +20371,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-images-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 21:11:42 GMT"
+        "lastModified": "Fri, 15 Nov 2024 21:11:43 GMT"
       },
       "generator": "bikeshed",
       "date": "8 November 2024",
@@ -30265,8 +30265,7 @@
       "refs": "refs/png-3.json",
       "dfns": "dfns/png-3.json",
       "headings": "headings/png-3.json",
-      "ids": "ids/png-3.json",
-      "error": "Error: Loading https://w3c.github.io/png/ triggered HTTP status 503\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 516)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
+      "ids": "ids/png-3.json"
     },
     {
       "url": "https://www.w3.org/TR/pointerevents3/",
