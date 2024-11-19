@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-19T02:20:36.446Z",
+  "date": "2024-11-19T06:53:12.819Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -14754,9 +14754,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc4120",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 12 Nov 2024 02:08:26 GMT"
+        "lastModified": "Tue, 19 Nov 2024 02:44:13 GMT"
       },
-      "date": "12 November 2024",
+      "date": "19 November 2024",
       "links": "links/rfc4120.json",
       "ids": "ids/rfc4120.json"
     },
