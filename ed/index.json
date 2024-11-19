@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-19T06:53:12.819Z",
+  "date": "2024-11-19T13:08:32.463Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -1426,11 +1426,11 @@
       ],
       "crawled": "https://dom.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 18 Nov 2024 09:44:59 GMT"
+        "lastModified": "Tue, 19 Nov 2024 07:37:28 GMT"
       },
       "generator": "bikeshed",
-      "date": "18 November 2024",
-      "revision": "c2d5aa344d2c008a5bb7ab4dc999c0430646aca4",
+      "date": "19 November 2024",
+      "revision": "bb30d16be620b09e7020bbb824b93cedfa4bbd6a",
       "algorithms": "algorithms/dom.json",
       "links": "links/dom.json",
       "refs": "refs/dom.json",
@@ -3682,11 +3682,11 @@
       ],
       "crawled": "https://infra.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 18 Nov 2024 08:00:39 GMT"
+        "lastModified": "Tue, 19 Nov 2024 10:25:44 GMT"
       },
       "generator": "bikeshed",
-      "date": "18 November 2024",
-      "revision": "2410293935c75ca4ca1fdf117b178054ac171654",
+      "date": "19 November 2024",
+      "revision": "dee8f32cd3381ac10f058d723c61bc626e2f3352",
       "algorithms": "algorithms/infra.json",
       "links": "links/infra.json",
       "refs": "refs/infra.json",
@@ -27868,10 +27868,10 @@
       ],
       "crawled": "https://w3c.github.io/mathml/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 15 Nov 2024 16:34:57 GMT"
+        "lastModified": "Tue, 19 Nov 2024 09:17:20 GMT"
       },
       "generator": "respec",
-      "date": "15 November 2024",
+      "date": "19 November 2024",
       "algorithms": "algorithms/mathml4.json",
       "links": "links/mathml4.json",
       "refs": "refs/mathml4.json",
