@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-20T02:19:32.402Z",
+  "date": "2024-11-20T06:53:22.345Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 2
+    "errors": 1
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -4416,8 +4416,7 @@
       },
       "date": "31 October 2024",
       "links": "links/ANGLE_instanced_arrays.json",
-      "idl": "idl/ANGLE_instanced_arrays.idl",
-      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)"
+      "idl": "idl/ANGLE_instanced_arrays.idl"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/EXT_blend_minmax/",
@@ -31963,10 +31962,10 @@
       ],
       "crawled": "https://w3c.github.io/selection-api/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 30 Oct 2024 19:17:41 GMT"
+        "lastModified": "Wed, 20 Nov 2024 02:51:23 GMT"
       },
       "generator": "respec",
-      "date": "30 October 2024",
+      "date": "20 November 2024",
       "algorithms": "algorithms/selection-api.json",
       "links": "links/selection-api.json",
       "refs": "refs/selection-api.json",
