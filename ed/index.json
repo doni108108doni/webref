@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-20T06:53:22.345Z",
+  "date": "2024-11-20T13:08:18.054Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 1
+    "errors": 2
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -1321,9 +1321,9 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 19 Nov 2024 18:26:13 GMT"
+        "lastModified": "Wed, 20 Nov 2024 12:56:47 GMT"
       },
-      "date": "19 November 2024",
+      "date": "20 November 2024",
       "algorithms": "algorithms/rfc6265bis.json",
       "links": "links/rfc6265bis.json",
       "refs": "refs/rfc6265bis.json",
@@ -3323,7 +3323,7 @@
       ],
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 20 Nov 2024 01:46:41 GMT"
+        "lastModified": "Wed, 20 Nov 2024 09:17:42 GMT"
       },
       "date": "20 November 2024",
       "algorithms": "algorithms/html.json",
@@ -3682,11 +3682,11 @@
       ],
       "crawled": "https://infra.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 19 Nov 2024 10:25:44 GMT"
+        "lastModified": "Wed, 20 Nov 2024 07:11:47 GMT"
       },
       "generator": "bikeshed",
-      "date": "19 November 2024",
-      "revision": "dee8f32cd3381ac10f058d723c61bc626e2f3352",
+      "date": "20 November 2024",
+      "revision": "ef941a3b74b1abaa46b472d9387ca1ddd153b64d",
       "algorithms": "algorithms/infra.json",
       "links": "links/infra.json",
       "refs": "refs/infra.json",
@@ -4366,7 +4366,8 @@
       "algorithms": "algorithms/ESSL.json",
       "links": "links/ESSL.json",
       "headings": "headings/ESSL.json",
-      "ids": "ids/ESSL.json"
+      "ids": "ids/ESSL.json",
+      "error": "Error: Loading https://registry.khronos.org/OpenGL/specs/es/3.2/GLSL_ES_Specification_3.20.html triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/ANGLE_instanced_arrays/",
@@ -7316,9 +7317,9 @@
       ],
       "crawled": "https://tc39.es/proposal-dynamic-code-brand-checks/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 07 May 2024 20:20:37 GMT"
+        "lastModified": "Wed, 20 Nov 2024 09:20:15 GMT"
       },
-      "date": "7 May 2024",
+      "date": "20 November 2024",
       "links": "links/tc39-dynamic-code-brand-checks.json",
       "headings": "headings/tc39-dynamic-code-brand-checks.json",
       "ids": "ids/tc39-dynamic-code-brand-checks.json"
@@ -10068,11 +10069,11 @@
       ],
       "crawled": "https://webidl.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 29 Oct 2024 03:00:35 GMT"
+        "lastModified": "Wed, 20 Nov 2024 07:15:04 GMT"
       },
       "generator": "bikeshed",
-      "date": "29 October 2024",
-      "revision": "0675b96f0f992d7a217c82c06684294d37acb163",
+      "date": "20 November 2024",
+      "revision": "20f6212d8d9c5fdd5a6e52c6127c0c38b32b740a",
       "algorithms": "algorithms/webidl.json",
       "links": "links/webidl.json",
       "refs": "refs/webidl.json",
@@ -15035,9 +15036,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7034",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 12 Nov 2024 03:05:27 GMT"
+        "lastModified": "Tue, 19 Nov 2024 04:08:34 GMT"
       },
-      "date": "12 November 2024",
+      "date": "19 November 2024",
       "links": "links/rfc7034.json",
       "ids": "ids/rfc7034.json"
     },
@@ -15125,9 +15126,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7469",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 12 Nov 2024 23:10:26 GMT"
+        "lastModified": "Wed, 20 Nov 2024 00:31:21 GMT"
       },
-      "date": "12 November 2024",
+      "date": "20 November 2024",
       "links": "links/rfc7469.json",
       "ids": "ids/rfc7469.json"
     },
@@ -17283,10 +17284,10 @@
       ],
       "crawled": "https://w3c.github.io/compute-pressure/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 24 Oct 2024 09:18:09 GMT"
+        "lastModified": "Wed, 20 Nov 2024 11:25:51 GMT"
       },
       "generator": "respec",
-      "date": "24 October 2024",
+      "date": "20 November 2024",
       "algorithms": "algorithms/compute-pressure.json",
       "links": "links/compute-pressure.json",
       "refs": "refs/compute-pressure.json",
