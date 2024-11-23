@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-23T13:04:45.928Z",
+  "date": "2024-11-23T18:50:00.704Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 1
+    "errors": 2
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -4566,7 +4566,8 @@
       },
       "date": "31 October 2024",
       "links": "links/EXT_color_buffer_half_float.json",
-      "idl": "idl/EXT_color_buffer_half_float.idl"
+      "idl": "idl/EXT_color_buffer_half_float.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_color_buffer_half_float/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 69)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/EXT_disjoint_timer_query_webgl2/",
@@ -33858,7 +33859,7 @@
       ],
       "crawled": "https://w3c.github.io/vc-data-integrity/",
       "crawlCacheInfo": {
-        "lastModified": "Sun, 17 Nov 2024 19:13:11 GMT"
+        "lastModified": "Sat, 23 Nov 2024 18:34:54 GMT"
       },
       "generator": "respec",
       "date": "05 November 2024",
