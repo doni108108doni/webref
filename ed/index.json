@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-24T06:52:14.435Z",
+  "date": "2024-11-24T13:04:48.739Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -24606,7 +24606,7 @@
       ],
       "crawled": "https://drafts.csswg.org/cssom-1/",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 23 Nov 2024 21:01:44 GMT"
+        "lastModified": "Sat, 23 Nov 2024 21:01:45 GMT"
       },
       "generator": "bikeshed",
       "date": "1 October 2024",
