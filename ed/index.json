@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-25T06:54:17.598Z",
+  "date": "2024-11-25T13:09:09.544Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 1
+    "errors": 3
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -4816,7 +4816,8 @@
       },
       "date": "31 October 2024",
       "links": "links/EXT_shader_texture_lod.json",
-      "idl": "idl/EXT_shader_texture_lod.idl"
+      "idl": "idl/EXT_shader_texture_lod.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/EXT_shader_texture_lod/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/EXT_sRGB/",
@@ -5166,7 +5167,8 @@
       },
       "date": "31 October 2024",
       "links": "links/OES_draw_buffers_indexed.json",
-      "idl": "idl/OES_draw_buffers_indexed.idl"
+      "idl": "idl/OES_draw_buffers_indexed.idl",
+      "error": "Error: Loading https://registry.khronos.org/webgl/extensions/OES_draw_buffers_indexed/ triggered HTTP status 521\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 81)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://registry.khronos.org/webgl/extensions/OES_element_index_uint/",
@@ -7902,9 +7904,9 @@
       ],
       "crawled": "https://tc39.es/proposal-shadowrealm/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 14 Nov 2024 16:37:48 GMT"
+        "lastModified": "Mon, 25 Nov 2024 10:05:04 GMT"
       },
-      "date": "14 November 2024",
+      "date": "25 November 2024",
       "links": "links/tc39-shadowrealm.json",
       "dfns": "dfns/tc39-shadowrealm.json",
       "headings": "headings/tc39-shadowrealm.json",
