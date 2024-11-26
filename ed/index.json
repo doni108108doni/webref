@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-26T02:16:42.295Z",
+  "date": "2024-11-26T06:53:41.851Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 1
+    "errors": 2
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -2124,7 +2124,8 @@
       "css": "css/css-gcpm-4.json",
       "dfns": "dfns/css-gcpm-4.json",
       "headings": "headings/css-gcpm-4.json",
-      "ids": "ids/css-gcpm-4.json"
+      "ids": "ids/css-gcpm-4.json",
+      "error": "Error: Loading https://drafts.csswg.org/css-gcpm-4/ triggered HTTP status 503\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 26)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
     },
     {
       "url": "https://drafts.csswg.org/css-images-5/",
@@ -3323,9 +3324,9 @@
       ],
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 22 Nov 2024 16:06:23 GMT"
+        "lastModified": "Tue, 26 Nov 2024 06:29:34 GMT"
       },
-      "date": "22 November 2024",
+      "date": "26 November 2024",
       "algorithms": "algorithms/html.json",
       "links": "links/html.json",
       "refs": "refs/html.json",
@@ -13508,11 +13509,11 @@
       ],
       "crawled": "https://wicg.github.io/shared-storage/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 25 Nov 2024 23:35:02 GMT"
+        "lastModified": "Tue, 26 Nov 2024 02:19:47 GMT"
       },
       "generator": "bikeshed",
-      "date": "25 November 2024",
-      "revision": "199f8ad9c8c4f119bb8519868cdfb28ff1b69cbb",
+      "date": "26 November 2024",
+      "revision": "dc07b5aad71074a574f1ce02b87f1e1cbaaffccf",
       "algorithms": "algorithms/shared-storage.json",
       "links": "links/shared-storage.json",
       "refs": "refs/shared-storage.json",
@@ -14754,9 +14755,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc4120",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 19 Nov 2024 02:44:13 GMT"
+        "lastModified": "Tue, 26 Nov 2024 05:16:06 GMT"
       },
-      "date": "19 November 2024",
+      "date": "26 November 2024",
       "links": "links/rfc4120.json",
       "ids": "ids/rfc4120.json"
     },
@@ -15662,9 +15663,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc8878",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 19 Nov 2024 08:20:39 GMT"
+        "lastModified": "Tue, 26 Nov 2024 05:40:04 GMT"
       },
-      "date": "19 November 2024",
+      "date": "26 November 2024",
       "links": "links/rfc8878.json",
       "refs": "refs/rfc8878.json",
       "headings": "headings/rfc8878.json",
