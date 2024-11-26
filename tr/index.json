@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-25T02:30:07.468Z",
+  "date": "2024-11-26T02:29:06.766Z",
   "options": {
     "fallback": "tr/index.json",
     "output": "report",
@@ -712,7 +712,7 @@
         "https://aomediacodec.github.io/av1-spec/"
       ],
       "crawled": "https://aomediacodec.github.io/av1-spec/av1-spec.pdf",
-      "date": "25 November 2024",
+      "date": "26 November 2024",
       "links": "links/av1-spec.json"
     },
     {
