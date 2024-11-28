@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-28T02:22:50.708Z",
+  "date": "2024-11-28T06:54:36.137Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
