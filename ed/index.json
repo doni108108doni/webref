@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-29T13:14:22.633Z",
+  "date": "2024-11-29T18:52:09.562Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -1595,7 +1595,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-backgrounds-4/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:44:48 GMT"
+        "lastModified": "Fri, 29 Nov 2024 08:44:49 GMT"
       },
       "generator": "bikeshed",
       "date": "16 September 2024",
@@ -9056,11 +9056,11 @@
       ],
       "crawled": "https://w3c.github.io/webdriver-bidi/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 28 Nov 2024 20:44:34 GMT"
+        "lastModified": "Fri, 29 Nov 2024 13:56:11 GMT"
       },
       "generator": "bikeshed",
-      "date": "28 November 2024",
-      "revision": "d416ad5e7fddf34d982b1e132f1175c189c23bfb",
+      "date": "29 November 2024",
+      "revision": "9eaa877ab61165fb0d67592ef5e6d03a06b32581",
       "algorithms": "algorithms/webdriver-bidi.json",
       "links": "links/webdriver-bidi.json",
       "refs": "refs/webdriver-bidi.json",
@@ -18668,7 +18668,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-cascade-6/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:44:48 GMT"
+        "lastModified": "Fri, 29 Nov 2024 08:44:49 GMT"
       },
       "generator": "bikeshed",
       "date": "8 November 2024",
@@ -19079,7 +19079,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-conditional-4/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:44:48 GMT"
+        "lastModified": "Fri, 29 Nov 2024 08:44:49 GMT"
       },
       "generator": "bikeshed",
       "date": "19 March 2024",
@@ -20240,7 +20240,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-grid-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:44:48 GMT"
+        "lastModified": "Fri, 29 Nov 2024 08:44:49 GMT"
       },
       "generator": "bikeshed",
       "date": "3 October 2024",
@@ -29492,11 +29492,11 @@
       ],
       "crawled": "https://w3c.github.io/openscreenprotocol/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 08 Oct 2024 23:18:00 GMT"
+        "lastModified": "Fri, 29 Nov 2024 16:45:21 GMT"
       },
       "generator": "bikeshed",
-      "date": "8 October 2024",
-      "revision": "886800d8b5e5bc509638a88eb5e56383e02333fa",
+      "date": "29 November 2024",
+      "revision": "a0a747944fbdd3db052384e0e0cb0d63cb3f3313",
       "algorithms": "algorithms/openscreenprotocol.json",
       "links": "links/openscreenprotocol.json",
       "refs": "refs/openscreenprotocol.json",
@@ -33956,7 +33956,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "title": "Vibration API (Second Edition)",
+      "title": "Vibration API",
       "source": "w3c",
       "shortTitle": "Vibration API",
       "categories": [
@@ -33976,10 +33976,10 @@
       ],
       "crawled": "https://w3c.github.io/vibration/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 28 Oct 2024 11:38:29 GMT"
+        "lastModified": "Fri, 29 Nov 2024 14:00:30 GMT"
       },
       "generator": "respec",
-      "date": "28 October 2024",
+      "date": "29 November 2024",
       "algorithms": "algorithms/vibration.json",
       "links": "links/vibration.json",
       "refs": "refs/vibration.json",
