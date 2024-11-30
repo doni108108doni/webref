@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-30T02:14:47.942Z",
+  "date": "2024-11-30T06:51:59.320Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -14994,9 +14994,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc6797",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 20 Nov 2024 21:25:53 GMT"
+        "lastModified": "Fri, 29 Nov 2024 05:33:56 GMT"
       },
-      "date": "20 November 2024",
+      "date": "29 November 2024",
       "links": "links/rfc6797.json",
       "ids": "ids/rfc6797.json"
     },
@@ -24140,7 +24140,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-will-change-1/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:44:48 GMT"
+        "lastModified": "Fri, 29 Nov 2024 08:44:49 GMT"
       },
       "generator": "bikeshed",
       "date": "29 April 2022",
