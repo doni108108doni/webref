@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-11-29T02:29:52.784Z",
+  "date": "2024-11-30T02:26:13.810Z",
   "options": {
     "fallback": "tr/index.json",
     "output": "report",
@@ -712,7 +712,7 @@
         "https://aomediacodec.github.io/av1-spec/"
       ],
       "crawled": "https://aomediacodec.github.io/av1-spec/av1-spec.pdf",
-      "date": "29 November 2024",
+      "date": "30 November 2024",
       "links": "links/av1-spec.json"
     },
     {
@@ -13897,11 +13897,11 @@
       ],
       "crawled": "https://www.w3.org/TR/openscreenprotocol/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 08 Oct 2024 23:16:42 GMT"
+        "lastModified": "Fri, 29 Nov 2024 16:43:50 GMT"
       },
       "generator": "bikeshed",
-      "date": "8 October 2024",
-      "revision": "886800d8b5e5bc509638a88eb5e56383e02333fa",
+      "date": "29 November 2024",
+      "revision": "a0a747944fbdd3db052384e0e0cb0d63cb3f3313",
       "algorithms": "algorithms/openscreenprotocol.json",
       "links": "links/openscreenprotocol.json",
       "refs": "refs/openscreenprotocol.json",
@@ -14728,11 +14728,11 @@
       ],
       "crawled": "https://www.w3.org/TR/pointerevents3/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 19 Nov 2024 19:01:34 GMT"
+        "lastModified": "Fri, 29 Nov 2024 22:13:54 GMT"
       },
       "generator": "respec",
-      "date": "19 November 2024",
-      "revision": "6800523390644fe2bb7ed2c14174a5d74da658f1",
+      "date": "29 November 2024",
+      "revision": "021c4a951c10ff29fe9b1767fd71901852336e82",
       "algorithms": "algorithms/pointerevents3.json",
       "links": "links/pointerevents3.json",
       "refs": "refs/pointerevents3.json",
@@ -18391,7 +18391,7 @@
         "sourcePath": "index.html",
         "filename": "index.html"
       },
-      "title": "Vibration API (Second Edition)",
+      "title": "Vibration API",
       "source": "w3c",
       "shortTitle": "Vibration API",
       "categories": [
@@ -18411,10 +18411,11 @@
       ],
       "crawled": "https://www.w3.org/TR/vibration/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 13 Oct 2016 14:22:28 GMT"
+        "lastModified": "Fri, 29 Nov 2024 14:00:44 GMT"
       },
       "generator": "respec",
-      "date": "18 October 2016",
+      "date": "29 November 2024",
+      "revision": "bd8fb21c94f999a7e207541bbbeeb7680df53328",
       "algorithms": "algorithms/vibration.json",
       "links": "links/vibration.json",
       "refs": "refs/vibration.json",
