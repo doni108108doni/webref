@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-01T06:53:23.269Z",
+  "date": "2024-12-01T13:06:13.075Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -18802,7 +18802,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-color-4/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:44:48 GMT"
+        "lastModified": "Fri, 29 Nov 2024 08:44:49 GMT"
       },
       "generator": "bikeshed",
       "date": "26 November 2024",
