@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-01T18:50:39.188Z",
+  "date": "2024-12-02T02:21:56.652Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -6840,11 +6840,11 @@
       ],
       "crawled": "https://streams.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 08:51:23 GMT"
+        "lastModified": "Mon, 02 Dec 2024 01:45:23 GMT"
       },
       "generator": "bikeshed",
-      "date": "29 November 2024",
-      "revision": "1de47f0ee555d9d5ccefecd55f4bfad155f7f477",
+      "date": "2 December 2024",
+      "revision": "bcc20495fcb7e346375ed0420cba04ebb76a05f6",
       "algorithms": "algorithms/streams.json",
       "links": "links/streams.json",
       "refs": "refs/streams.json",
