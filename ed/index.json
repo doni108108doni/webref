@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-02T02:21:56.652Z",
+  "date": "2024-12-02T06:54:57.489Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -36372,10 +36372,10 @@
       ],
       "crawled": "https://w3c.github.io/webrtc-pc/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 28 Nov 2024 14:14:03 GMT"
+        "lastModified": "Mon, 02 Dec 2024 05:25:49 GMT"
       },
       "generator": "respec",
-      "date": "28 November 2024",
+      "date": "02 December 2024",
       "algorithms": "algorithms/webrtc.json",
       "links": "links/webrtc.json",
       "refs": "refs/webrtc.json",
