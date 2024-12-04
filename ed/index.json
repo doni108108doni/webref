@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-04T02:24:53.118Z",
+  "date": "2024-12-04T06:54:51.482Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -2229,7 +2229,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-link-params-1/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "7 August 2023",
@@ -2651,7 +2651,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-size-adjust-1/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "24 January 2024",
@@ -15709,9 +15709,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc8942",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 26 Nov 2024 21:03:27 GMT"
+        "lastModified": "Tue, 03 Dec 2024 21:32:34 GMT"
       },
-      "date": "26 November 2024",
+      "date": "3 December 2024",
       "links": "links/rfc8942.json",
       "refs": "refs/rfc8942.json",
       "headings": "headings/rfc8942.json",
@@ -18668,7 +18668,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-cascade-6/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "8 November 2024",
@@ -18871,7 +18871,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-color-5/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "26 November 2024",
@@ -19968,7 +19968,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-fonts-5/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "11 July 2024",
@@ -20036,7 +20036,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-gcpm-3/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "4 May 2024",
@@ -20906,7 +20906,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-multicol-1/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "22 November 2024",
@@ -21432,7 +21432,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-page-floats-3/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "4 November 2024",
@@ -22438,7 +22438,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-shapes-1/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "19 September 2024",
@@ -35991,11 +35991,11 @@
       ],
       "crawled": "https://webmachinelearning.github.io/webnn/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 02 Dec 2024 19:34:32 GMT"
+        "lastModified": "Wed, 04 Dec 2024 05:35:07 GMT"
       },
       "generator": "bikeshed",
-      "date": "2 December 2024",
-      "revision": "4e80205952cc79ee567596ebc68166d894e2e751",
+      "date": "4 December 2024",
+      "revision": "df555e1b0a6beb2deaf4b98e2642492ff00e98f4",
       "algorithms": "algorithms/webnn.json",
       "links": "links/webnn.json",
       "refs": "refs/webnn.json",
