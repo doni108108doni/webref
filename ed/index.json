@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-04T06:54:51.482Z",
+  "date": "2024-12-04T13:10:29.310Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -1321,7 +1321,7 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 08:13:34 GMT"
+        "lastModified": "Tue, 03 Dec 2024 08:13:35 GMT"
       },
       "date": "3 December 2024",
       "algorithms": "algorithms/rfc6265bis.json",
@@ -18802,7 +18802,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-color-4/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "26 November 2024",
@@ -20103,7 +20103,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-grid-1/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "3 November 2023",
@@ -24129,7 +24129,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-will-change-1/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 22:47:31 GMT"
+        "lastModified": "Tue, 03 Dec 2024 22:47:32 GMT"
       },
       "generator": "bikeshed",
       "date": "29 April 2022",
