@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-05T02:25:38.831Z",
+  "date": "2024-12-05T06:54:41.858Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -2469,7 +2469,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-page-4/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 04 Dec 2024 20:06:03 GMT"
+        "lastModified": "Wed, 04 Dec 2024 20:06:04 GMT"
       },
       "generator": "bikeshed",
       "date": "12 May 2023",
@@ -3323,9 +3323,9 @@
       ],
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 04 Dec 2024 01:28:51 GMT"
+        "lastModified": "Thu, 05 Dec 2024 06:43:43 GMT"
       },
-      "date": "4 December 2024",
+      "date": "5 December 2024",
       "algorithms": "algorithms/html.json",
       "links": "links/html.json",
       "refs": "refs/html.json",
@@ -7406,9 +7406,9 @@
       ],
       "crawled": "https://tc39.es/proposal-float16array/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 16 May 2023 19:42:48 GMT"
+        "lastModified": "Thu, 05 Dec 2024 05:15:54 GMT"
       },
-      "date": "16 May 2023",
+      "date": "5 December 2024",
       "links": "links/tc39-float16array.json",
       "headings": "headings/tc39-float16array.json",
       "ids": "ids/tc39-float16array.json"
@@ -21958,7 +21958,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-ruby-1/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 04 Dec 2024 20:06:03 GMT"
+        "lastModified": "Wed, 04 Dec 2024 20:06:04 GMT"
       },
       "generator": "bikeshed",
       "date": "15 July 2024",
@@ -22839,7 +22839,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-tables-3/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 04 Dec 2024 20:06:03 GMT"
+        "lastModified": "Wed, 04 Dec 2024 20:06:04 GMT"
       },
       "generator": "bikeshed",
       "date": "1 August 2024",
@@ -23659,7 +23659,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-values-3/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 04 Dec 2024 20:06:03 GMT"
+        "lastModified": "Wed, 04 Dec 2024 20:06:04 GMT"
       },
       "generator": "bikeshed",
       "date": "31 July 2024",
