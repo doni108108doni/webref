@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-06T02:24:58.139Z",
+  "date": "2024-12-06T06:55:10.447Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 2
+    "errors": 1
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -19284,7 +19284,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-contain-2/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "26 November 2024",
@@ -19354,7 +19354,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-contain-3/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "20 June 2024",
@@ -20703,7 +20703,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-lists-3/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "24 January 2024",
@@ -21958,7 +21958,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-ruby-1/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "15 July 2024",
@@ -22301,7 +22301,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-scrollbars-1/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "13 September 2024",
@@ -22641,7 +22641,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-speech-1/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "24 January 2024",
@@ -23045,7 +23045,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-text-decor-3/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "24 January 2024",
@@ -24538,7 +24538,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-exclusions-1/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 21:32:00 GMT"
+        "lastModified": "Thu, 05 Dec 2024 21:32:01 GMT"
       },
       "generator": "bikeshed",
       "date": "24 July 2024",
@@ -26745,8 +26745,7 @@
       "refs": "refs/html-aam-1.0.json",
       "dfns": "dfns/html-aam-1.0.json",
       "headings": "headings/html-aam-1.0.json",
-      "ids": "ids/html-aam-1.0.json",
-      "error": "Error: Loading https://w3c.github.io/html-aam/ triggered HTTP status 503\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)\n    at async Promise.all (index 458)\n    at async crawlList (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:373:21)"
+      "ids": "ids/html-aam-1.0.json"
     },
     {
       "url": "https://www.w3.org/TR/html-aria/",
