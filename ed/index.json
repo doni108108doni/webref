@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-07T02:17:57.948Z",
+  "date": "2024-12-07T06:52:30.234Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -19557,7 +19557,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-display-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 06 Dec 2024 16:22:16 GMT"
+        "lastModified": "Fri, 06 Dec 2024 16:22:17 GMT"
       },
       "generator": "bikeshed",
       "date": "22 November 2023",
@@ -20371,7 +20371,7 @@
       ],
       "crawled": "https://drafts.csswg.org/css-images-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 06 Dec 2024 16:22:16 GMT"
+        "lastModified": "Fri, 06 Dec 2024 16:22:17 GMT"
       },
       "generator": "bikeshed",
       "date": "8 November 2024",
