@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-06T18:58:24.878Z",
+  "date": "2024-12-07T02:17:57.948Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -13825,11 +13825,11 @@
       ],
       "crawled": "https://wicg.github.io/turtledove/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 05 Dec 2024 20:43:21 GMT"
+        "lastModified": "Fri, 06 Dec 2024 20:18:21 GMT"
       },
       "generator": "bikeshed",
-      "date": "5 December 2024",
-      "revision": "64eaf586cef0ffd21897c6792247f53eb57dba6f",
+      "date": "6 December 2024",
+      "revision": "ea288c40bbd5bdb90795daab1bc5da5df85aaf26",
       "algorithms": "algorithms/turtledove.json",
       "links": "links/turtledove.json",
       "refs": "refs/turtledove.json",
@@ -34237,11 +34237,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/core/bikeshed/",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 30 Nov 2024 19:21:34 GMT"
+        "lastModified": "Fri, 06 Dec 2024 21:12:07 GMT"
       },
       "generator": "bikeshed",
-      "date": "30 November 2024",
-      "revision": "06a88d08cf0b1cf7f16d877f27ee25e1f5e09187",
+      "date": "6 December 2024",
+      "revision": "187873922a3d89bb22c82141d99c3e474b1f9b19",
       "algorithms": "algorithms/wasm-core-2.json",
       "links": "links/wasm-core-2.json",
       "refs": "refs/wasm-core-2.json",
@@ -34309,11 +34309,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/js-api/",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 30 Nov 2024 19:21:34 GMT"
+        "lastModified": "Fri, 06 Dec 2024 21:12:07 GMT"
       },
       "generator": "bikeshed",
-      "date": "30 November 2024",
-      "revision": "06a88d08cf0b1cf7f16d877f27ee25e1f5e09187",
+      "date": "6 December 2024",
+      "revision": "187873922a3d89bb22c82141d99c3e474b1f9b19",
       "algorithms": "algorithms/wasm-js-api-2.json",
       "links": "links/wasm-js-api-2.json",
       "refs": "refs/wasm-js-api-2.json",
@@ -34374,11 +34374,11 @@
       ],
       "crawled": "https://webassembly.github.io/spec/web-api/",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 30 Nov 2024 19:21:34 GMT"
+        "lastModified": "Fri, 06 Dec 2024 21:12:07 GMT"
       },
       "generator": "bikeshed",
-      "date": "30 November 2024",
-      "revision": "06a88d08cf0b1cf7f16d877f27ee25e1f5e09187",
+      "date": "6 December 2024",
+      "revision": "187873922a3d89bb22c82141d99c3e474b1f9b19",
       "algorithms": "algorithms/wasm-web-api-2.json",
       "links": "links/wasm-web-api-2.json",
       "refs": "refs/wasm-web-api-2.json",
@@ -34512,7 +34512,7 @@
       ],
       "crawled": "https://drafts.csswg.org/web-animations-2/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 06 Dec 2024 16:22:16 GMT"
+        "lastModified": "Fri, 06 Dec 2024 16:22:17 GMT"
       },
       "generator": "bikeshed",
       "date": "18 November 2024",
