@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-09T13:11:33.799Z",
+  "date": "2024-12-09T18:54:25.775Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -13825,11 +13825,11 @@
       ],
       "crawled": "https://wicg.github.io/turtledove/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 06 Dec 2024 20:18:21 GMT"
+        "lastModified": "Mon, 09 Dec 2024 17:03:34 GMT"
       },
       "generator": "bikeshed",
-      "date": "6 December 2024",
-      "revision": "ea288c40bbd5bdb90795daab1bc5da5df85aaf26",
+      "date": "9 December 2024",
+      "revision": "9445d00096df580da8b9a5040e313dff7eb6e7f0",
       "algorithms": "algorithms/turtledove.json",
       "links": "links/turtledove.json",
       "refs": "refs/turtledove.json",
