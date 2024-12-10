@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-10T02:27:22.725Z",
+  "date": "2024-12-10T06:54:46.446Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 1
+    "errors": 2
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -3323,9 +3323,9 @@
       ],
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 09 Dec 2024 07:45:56 GMT"
+        "lastModified": "Tue, 10 Dec 2024 02:31:58 GMT"
       },
-      "date": "9 December 2024",
+      "date": "10 December 2024",
       "algorithms": "algorithms/html.json",
       "links": "links/html.json",
       "refs": "refs/html.json",
@@ -14990,9 +14990,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc6797",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 29 Nov 2024 05:33:56 GMT"
+        "lastModified": "Fri, 06 Dec 2024 06:28:15 GMT"
       },
-      "date": "29 November 2024",
+      "date": "6 December 2024",
       "links": "links/rfc6797.json",
       "ids": "ids/rfc6797.json"
     },
@@ -16167,7 +16167,8 @@
       "links": "links/promises-guide.json",
       "refs": "refs/promises-guide.json",
       "headings": "headings/promises-guide.json",
-      "ids": "ids/promises-guide.json"
+      "ids": "ids/promises-guide.json",
+      "error": "Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 522\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)"
     },
     {
       "url": "https://www.w3.org/Consortium/Patent-Policy/",
