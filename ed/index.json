@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-10T06:54:46.446Z",
+  "date": "2024-12-10T13:11:27.132Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -672,7 +672,7 @@
   },
   "stats": {
     "crawled": 641,
-    "errors": 2
+    "errors": 1
   },
   "crawler": "reffy-17.2.7",
   "results": [
@@ -16167,8 +16167,7 @@
       "links": "links/promises-guide.json",
       "refs": "refs/promises-guide.json",
       "headings": "headings/promises-guide.json",
-      "ids": "ids/promises-guide.json",
-      "error": "Error: Loading https://www.w3.org/2001/tag/doc/promises-guide triggered HTTP status 522\n    at processSpecification (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/util.js:481:19)\n    at async crawlSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:107:22)\n    at async processSpec (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/specs-crawler.js:352:22)\n    at async ThrottledQueue.runThrottled (file:///home/runner/work/webref/webref/node_modules/reffy/src/lib/throttled-queue.js:78:22)"
+      "ids": "ids/promises-guide.json"
     },
     {
       "url": "https://www.w3.org/Consortium/Patent-Policy/",
