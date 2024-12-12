@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2024-12-12T02:24:58.578Z",
+  "date": "2024-12-12T06:54:55.337Z",
   "options": {
     "fallback": "ed/index.json",
     "output": "report",
@@ -1321,7 +1321,7 @@
       ],
       "crawled": "https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 12 Dec 2024 01:00:09 GMT"
+        "lastModified": "Thu, 12 Dec 2024 06:11:12 GMT"
       },
       "date": "12 December 2024",
       "algorithms": "algorithms/rfc6265bis.json",
@@ -3323,9 +3323,9 @@
       ],
       "crawled": "https://html.spec.whatwg.org/multipage/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 11 Dec 2024 14:45:21 GMT"
+        "lastModified": "Thu, 12 Dec 2024 03:41:35 GMT"
       },
-      "date": "11 December 2024",
+      "date": "12 December 2024",
       "algorithms": "algorithms/html.json",
       "links": "links/html.json",
       "refs": "refs/html.json",
@@ -10068,11 +10068,11 @@
       ],
       "crawled": "https://webidl.spec.whatwg.org/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 20 Nov 2024 07:15:04 GMT"
+        "lastModified": "Thu, 12 Dec 2024 05:50:29 GMT"
       },
       "generator": "bikeshed",
-      "date": "20 November 2024",
-      "revision": "20f6212d8d9c5fdd5a6e52c6127c0c38b32b740a",
+      "date": "12 December 2024",
+      "revision": "acbbd5ffedb1d86c3bf26ccd2cb2c6d31375920a",
       "algorithms": "algorithms/webidl.json",
       "links": "links/webidl.json",
       "refs": "refs/webidl.json",
@@ -12521,11 +12521,11 @@
       ],
       "crawled": "https://wicg.github.io/observable/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 23 Oct 2024 08:47:50 GMT"
+        "lastModified": "Thu, 12 Dec 2024 03:55:08 GMT"
       },
       "generator": "bikeshed",
-      "date": "23 October 2024",
-      "revision": "d576611b320622e065860c6f9562f0c337f9c805",
+      "date": "12 December 2024",
+      "revision": "a8bfae276265dc2d29e6009f7a6003da280df160",
       "algorithms": "algorithms/observable.json",
       "links": "links/observable.json",
       "refs": "refs/observable.json",
@@ -15035,9 +15035,9 @@
       ],
       "crawled": "https://www.rfc-editor.org/rfc/rfc7034",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 03 Dec 2024 07:27:41 GMT"
+        "lastModified": "Tue, 10 Dec 2024 11:14:14 GMT"
       },
-      "date": "3 December 2024",
+      "date": "10 December 2024",
       "links": "links/rfc7034.json",
       "ids": "ids/rfc7034.json"
     },
